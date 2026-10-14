@@ -12,3 +12,5 @@ npm install
 npm run dev
 
 ## Day 7 — fetch, pull, push & Team Workflow
+
+## Edited on github repo 
