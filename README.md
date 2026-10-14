@@ -10,3 +10,5 @@ A React project created with Vite to practise Git and GitHub.
 ## Run locally
 npm install
 npm run dev
+
+## Day 7 — fetch, pull, push & Team Workflow
