@@ -5,6 +5,7 @@ const App = () => {
     <div>
       <h1>Git Practice Project</h1>
       <input type="text" />
+      <h3>Main Heading</h3>
     </div>
   )
 }
